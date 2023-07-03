@@ -61,8 +61,9 @@ representative at an online or offline event.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at:
 
-- Angie Byron (she/her, they/them), Community Director, `angie.byron@aiven.io` 
-- Floor Drees (she/her), Staff Community Program Manager, `floor.drees@aiven.io`
+- Josep Prat (he/him), Open Source Engineering Director, `josep.prat@aiven.io`
+- Ahmed Sobeh (he/him), Engineering Manager OSPO, `ahmed.sobeh@aiven.io`
+- Kevin Webber (he/him), Open Source Engineering Manager, `kevin.webber@aiven.io`
 
 All complaints will be reviewed and investigated promptly and fairly.
 
