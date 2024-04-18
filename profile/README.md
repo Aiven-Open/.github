@@ -16,7 +16,7 @@ If you're looking for more information or quick start material, here are some re
 
 - [Open Source at Aiven](https://aiven.io/open-source)
 - [The Open Source Program Office (OSPO)](https://aiven.io/open-source-program-office)
-- [Aiven Docs](https://docs.aiven.io/)
+- [Aiven Docs](https://aiven.io/docs)
 - [Developer Center](https://aiven.io/developer)
 - [API documentation](https://docs.aiven.io/docs/tools/api)
 - [Aiven Community Forum](https://aiven.io/community/forum/)
